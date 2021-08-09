@@ -1,0 +1,45 @@
+.annoucment{
+    background-color: aqua;
+    color: black;
+    font-size: 20;
+}
+
+img{
+    width: 1200px;
+    margin-top: 10px;
+    margin-left: 60px;
+}
+
+#map{
+    text-align: center;
+}
+
+env_li{
+    margin-top: 13px;
+}
+
+.env_li h4{
+    border-bottom: 1px solid #4e8c0f;
+    padding: 8px;
+}
+
+.env_li p{
+    margin-top: 10px;
+}
+
+.modal-content{
+    margin-top: 100px;
+}
+
+.img_modal{
+    display:inline-block;
+    margin-left: 400px;
+}
+
+.p_modal{
+    margin-top: 10px;
+}
+
+.modal-body{
+    text-align: center;
+}
